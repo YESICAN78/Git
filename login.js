@@ -12,5 +12,15 @@ var obj = {
 	 height:178,
 	 like:["篮球","羽毛球","篮球"]
 	}
+}
+
+const getUserInfo = ()=>{
+
+   for(var i = 0 ; i<10;i++){
+
+     (function(i){
+   console.log(i)
+})(i)
+}
 
 }

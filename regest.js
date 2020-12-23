@@ -10,3 +10,10 @@ const userA = {
 }
 
 
+const userB = {
+id:2,
+name:"B",
+height:156,
+sex:"女",
+phone:18460005570,
+}
