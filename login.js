@@ -9,3 +9,10 @@ var obj = {
 height:456,
  
 }
+
+
+function sum(a,b){
+
+return a+b;
+
+}
