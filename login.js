@@ -16,3 +16,6 @@ function sum(a,b){
 return a+b;
 
 }
+
+
+console.log("孙富林添加的一个函数")
