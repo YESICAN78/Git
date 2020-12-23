@@ -24,3 +24,8 @@ const getUserInfo = ()=>{
 }
 
 }
+
+function A(){console.log("我是A用户")}
+
+
+
