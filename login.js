@@ -3,3 +3,9 @@ console.log(str)
 
 
 var name = "孙富林"
+
+var obj = {
+ name:"张三",
+height:456,
+ 
+}
