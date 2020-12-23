@@ -14,3 +14,8 @@ var obj = {
 	}
 
 }
+
+function A(){console.log("我是A用户")}
+
+
+
