@@ -17,3 +17,8 @@ height:156,
 sex:"女",
 phone:18460005570,
 }
+
+const userSunfulin(){
+
+console.log("gitHub添加的数据")
+}
